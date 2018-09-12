@@ -1,2 +1,6 @@
 this is a test doc to check pull command
+<<<<<<< HEAD
 this is a second update
+=======
+this is a update
+>>>>>>> 65f1bd4f4dd79917a682400bf831f892156a9f6e
